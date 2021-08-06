@@ -1,11 +1,11 @@
 ---
 title: Terms of Service
-version v1.0.0
 date: August 04, 2021
-documentId: TOS0001
-----
+version: v1.0.0
+---
 
-### Terms and Conditions of manifoldfinance.com, openmev.org
+
+# Terms and Conditions of Service for  manifoldfinance.com, openmev.org
 
 These Terms govern the use of this Application, and,
 any other related Agreement or legal relationship with the Owner
