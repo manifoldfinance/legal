@@ -1,5 +1,5 @@
 <!-- START OF DISCLAIMER -->
-Copyright © 2021 CommodityStream LLC, d.b.a Manifold Finance  
+Copyright © 2021 Manifold Finance, Inc.
 
 All Rights Reserved - email: contact@manifoldfinance.com
 
@@ -20,4 +20,5 @@ The name and trademarks of copyright holders may NOT be used in advertising or
 publicity pertaining to this document or its contents without specific,
 written prior permission. Title to copyright in this document will at all
 times remain with copyright holders.
+
 <!-- END OF DISCLAIMER -->
