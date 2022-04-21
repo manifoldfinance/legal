@@ -15,3 +15,27 @@
 - CCPA
 - GDPR
 - SPDX Resources
+
+## Script
+
+```bash
+#!/usr/env/bin bash
+
+LIBS=""
+
+rm ALL.txt 2> /dev/null
+for l in $LIBS; do rm -rf $l; done
+
+#
+# PLACE REPOS HERE
+#
+
+
+for l in $LIBS; do
+    F=$(ls $l | head -n 1)
+    echo "LICENSE FOR $l:" >> ALL.txt
+    echo "" >> ALL.txt
+    cat $l/$F >> ALL.txt
+    echo "" >> ALL.txt
+done
+```
