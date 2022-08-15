@@ -1,5 +1,11 @@
 # [Legal Resources](#)
 
+## TLDR:
+
+(via Apple's Min. Dev EULA)
+
+Legal Compliance: The End-User must represent and warrant that (i) he/she is not located in a country that is subject to a U.S. Government embargo, or that has been designated by the U.S. Government as a “terrorist supporting” country; and (ii) he/she is not listed on any U.S. Government list of prohibited or restricted parties.
+
 
 ## Corporate & Business Practices
 
