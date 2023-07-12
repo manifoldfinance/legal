@@ -1,0 +1,17 @@
+{
+  "name": "legal",
+  "version": "1.0.0",
+  "private": true,
+  "description": "## TLDR:",
+  "scripts": {
+  },
+  "keywords": [],
+  "author": "SEE CONTRIBUTORS",
+  "license": "SEE LICENSE IN LICENSE",
+  "devDependencies": {
+    "cspell": "^6.31.1",
+    "markdownlint": "^0.29.0",
+    "markdownlint-cli": "^0.35.0",
+    "prettier": "^3.0.0"
+  }
+}
