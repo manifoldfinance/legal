@@ -1,0 +1,41 @@
+---
+title: Content Disclaimer
+version: 2023-07
+tags: ['disclaimer', 'notice', 'terms of use']
+---
+
+The content and information presented on this website (hereafter
+referred to as "Content") is for informational and educational purposes only.
+The Content is explicitly not intended to be suitable for any specific
+purpose, including but not limited to commercial use, and it is explicitly not
+intended to meet any merchantability requirements. Furthermore, no warranty or
+representation, whether express or implied, is made as to the Content's suitability
+for any specific purpose.  This Content does not constitute professional
+financial advice, investment advice, trading advice, and should not be relied
+upon for making personal, financial, investment, or trading decisions.  The
+Content is provided strictly "as is" and "as available", without any
+warranties or representations, either express or implied. This includes, but is
+not limited to, warranties of accuracy, completeness, reliability, or
+timeliness.  The website's authors and administrators, and any entity associated
+with them, do not make any representation or warranty with respect to the
+Content and do not accept any responsibility for any loss, damage, liability,
+or expense suffered by you, the User, or any other person or entity as a
+result of reliance upon the Content.  The Content is general in nature and
+does not take into account your specific circumstances, financial or
+otherwise. Before you make any decisions or take any actions that might affect
+your personal finances or investments, you should consult a qualified
+professional financial advisor or broker.  This website is accessible globally, but
+this does not imply that all Content provided or offered through this
+website is appropriate or available for use in all jurisdictions. If you
+access this website, you do so at your own risk, and you are responsible for
+compliance with local laws and regulations.  Please note, the laws and
+regulations regarding financial advice differ between countries, particularly
+between the United States of America, the United Kingdom and the European
+Union. Users should not construe any of the Content as legal advice and
+should consult with a legal professional in their respective country to
+ensure adherence to local laws and regulations.  By using this website, you
+accept this disclaimer in full. If you disagree with any part of this
+disclaimer, you should not use this website. This disclaimer may be updated from
+time to time, and your continued use of the website signifies your
+acceptance of any changes. 
+
