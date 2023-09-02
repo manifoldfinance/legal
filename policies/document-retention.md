@@ -1,3 +1,10 @@
+---
+title: Document and Records Retention Policy
+version: 08.2023
+description: Document Retention Policy 
+identifier: 4140
+---
+
 # Document Retention Policy 
 
 ## Overivew
@@ -8,8 +15,8 @@ important to how it conducts business and manages employees.
 Federal and State law require(s) Manifold Finance to retain certain
 records, usually for a specific amount of time. The accidental or
 intentional destruction of these records during their specified
-retention periods could result in the following consequences for Freight
-Trust and/or its employees:
+retention periods could result in the following consequences for Manifold 
+Finance and/or its employees:
 
   - Fines and penalties.
 
@@ -28,8 +35,8 @@ information that:
 
   - Serves as Manifold Finance’s corporate memory. Has enduring business
     value (for example, it provides a record of a business transaction,
-    evidences Manifold Finance’s rights or obligations, protects Freight
-    Trust’s legal interests or ensures operational continuity).
+    evidences Manifold Finance’s rights or obligations, protects Manifold 
+Finance’s legal interests or ensures operational continuity).
 
   - Must be kept to satisfy legal, accounting, or other regulatory
     requirements.
@@ -188,8 +195,8 @@ Management Department and is responsible for:
 
 Developing and implementing measures to ensure that the Legal Department
 knows what information Manifold Finance has and where it is stored, that
-only authorized users have access to the information, and that Freight
-Trust keeps only the information it needs, thereby efficiently using
+only authorized users have access to the information, and that Manifold 
+Finance keeps only the information it needs, thereby efficiently using
 space.
 
   - Establishing standards for filing and storage equipment and
@@ -238,8 +245,7 @@ with state \[and foreign\] regulations.
   - Evaluating the overall effectiveness of the document management
     program.
     
-      - Reporting annually to the Legal Department \[and\] \[OTHER
-        DEPARTMENT NAME\] on the implementation of the document
+      - Reporting annually to the Legal Department on the implementation of the document
         management program in each of Manifold Finance’s departments.
     
       - Bringing to the attention of the Legal Department any
@@ -312,3 +318,7 @@ litigation hold or legal hold, replaces any previously or subsequently
 established destruction schedule for those records. If you believe this
 exception may apply, or have any questions regarding whether it may
 possibly apply, please contact \[the Legal Department\].
+
+----
+
+> August 31, 2023
