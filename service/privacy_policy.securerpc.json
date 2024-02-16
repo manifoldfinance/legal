@@ -1,0 +1,145 @@
+{
+    "id": 3036447,
+    "user_id": 13156295,
+    "name": "SecureRPC",
+    "url": "https://securerpc.com",
+    "logo": {
+        "url": null
+    },
+    "updated_at": "2024-02-16T16:45:59.229-05:00",
+    "uuid": "7255dbd6-3f84-4030-be2e-fe5d9f7dc13a",
+    "documents": [
+        {
+            "website_id": 3036447,
+            "website_uuid": "7255dbd6-3f84-4030-be2e-fe5d9f7dc13a",
+            "data": {
+                "usesofnotice_options": [
+                    "Website"
+                ],
+                "website_url": "https://securerpc.com",
+                "english_option": "American English",
+                "users_US": "Yes",
+                "collect_EUpersonal_info_option": "Yes",
+                "users_canada": "Yes",
+                "user_register_option": "Yes",
+                "user_update_account_list": [
+                    "Contact us using the contact information provided."
+                ],
+                "user_u18_option": "No",
+                "collect_personal_info_provided": [
+                    "Contact or authentication data",
+                    "Contact preferences"
+                ],
+                "info_sensitive_option": "No",
+                "socialnetwork_link_option": "No",
+                "derivative_date_option": "No",
+                "collect_info_othersource_option": "No",
+                "LB_process_e": [
+                    "Yes, I understand that Termly lists these five legal bases by default in my privacy policy."
+                ],
+                "LB_contractual_option": "No",
+                "LB_interests_option": "Yes",
+                "LB_interests": [
+                    "To protect your Services"
+                ],
+                "LB_interests_add_option": "No",
+                "communications": "No",
+                "ccpa_disclose_info_thirdparty": "No, I do not disclose or sell/share personal information",
+                "provide_payment_option": "No",
+                "user_post_content_option": "No",
+                "nonaffiliated_3rdparty_option": "No",
+                "disclose_info_affiliate_option": "No",
+                "disclose_info_business_partner_option": "No",
+                "retain_info_regacct": "A number of months after the user's account is terminated",
+                "retain_info_months": "6",
+                "datasecurity_measure_option": "Yes",
+                "databreachreview_acknowlege": [
+                    "I understand my legal obligation."
+                ],
+                "tracking_options": "Neither",
+                "google_analytics": "No",
+                "pi_identifiers_onlycollect": "No",
+                "pi_characteristics_onlycollect": "No",
+                "pi_commercial_onlycollect": "No",
+                "pi_biometric_onlycollect": "No",
+                "pi_internet_onlycollect": "No",
+                "pi_geolocation_onlycollect": "No",
+                "pi_sensory_onlycollect": "No",
+                "pi_professional_onlycollect": "Yes",
+                "pi_professional_retain": "As long as the user has an account with us",
+                "pi_education_onlycollect": "No",
+                "pi_inferences": "No",
+                "EEArep_option": "Neither",
+                "international_transfer_option": "No",
+                "officer_option": "Yes",
+                "officer_name": "Sam Bacha",
+                "officer_email": "sam@manifoldfinance.com",
+                "officer_phone": "8187033691",
+                "officer_address_option": "Yes",
+                "consent_preferences": "No",
+                "personal_info_review_service": "Yes",
+                "personal_info_review_service_yes": "mailto:admin@commoditystream.com",
+                "request_access": "Always",
+                "additional_clause_option": "No",
+                "company_country": "Saint Lucia",
+                "company_address": "The Sotheby Building, Rodney Village",
+                "company_city": "Gros-Islet",
+                "company_state": " Rodney Bay",
+                "company_zip": "LC01 401 ",
+                "company_legal_name": "CommodityStream, Inc",
+                "company_phone": "(US)8052148332",
+                "version_date": "02/16/2024"
+            },
+            "notify_user": null,
+            "accepted_template_version": 4899,
+            "document_version": 1,
+            "published_document_version_id": 8900194,
+            "deny_latest": null,
+            "latest": true,
+            "id": 3790797,
+            "is_publishable": true,
+            "name": "Privacy Policy",
+            "website_name": "SecureRPC",
+            "website_url": "https://securerpc.com",
+            "released_date": "2024-02-16T16:45:26-05:00",
+            "uuid": "15c3347a-7a2e-4a0a-af4b-5a0c26dd77e4",
+            "expired": false,
+            "show_notification_to_user_of_owner": false,
+            "website_logo": {
+                "url": null
+            },
+            "show_notification_to_owner": true,
+            "updated_at": "2024-02-16T16:45:26-05:00"
+        }
+    ],
+    "current_report_id": null,
+    "company_legal_name": "CommodityStream, Inc",
+    "company_email": "admin@commoditystream.com",
+    "company_phone": "(US)8052148332",
+    "company_fax": "",
+    "company_address": "The Sotheby Building, Rodney Village",
+    "company_zip": "LC01 401 ",
+    "company_state": " Rodney Bay",
+    "company_city": "Gros-Islet",
+    "company_country": "Saint Lucia",
+    "scan_domain": {
+        "subdomain": []
+    },
+    "scan_period": "trimonthly",
+    "scan_type": null,
+    "scan_status": null,
+    "next_scan_date": null,
+    "consent_count": null,
+    "dsar_settings": {
+        "needs_ccpa": true,
+        "needs_cpa": true,
+        "needs_ctdpa": true,
+        "needs_gdpr": true,
+        "needs_ucpa": true,
+        "needs_vcdpa": true,
+        "sells_personal_info": true,
+        "uses_personal_info": true
+    },
+    "has_multiple_non_cookie_policies": false,
+    "non_cookie_published_document_count": 1
+}
